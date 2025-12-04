@@ -4,7 +4,7 @@
   "appId": "hh45timer",
   "description": "Alerts at HH:45 every hour.",
   "author": "jod0004",
-  "iconUrl": "https://jod0004.github.io/HH45Timer/hh45timer_icon.png",
+  "iconUrl": "https://github.com/jod0004/HH45Timer/blob/main/hh45timer_icon.png",
   "defaultWindow": {
     "width": 260,
     "height": 150
