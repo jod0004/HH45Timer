@@ -1,0 +1,13 @@
+{
+  "appName": "HH45 Timer",
+  "appUrl": "https://jod0004.github.io/HH45Timer/",
+  "appId": "hh45timer",
+  "description": "Alerts at HH:45 every hour.",
+  "author": "jod0004",
+  "iconUrl": "https://jod0004.github.io/HH45Timer/icon.png",
+  "defaultWindow": {
+    "width": 260,
+    "height": 150
+  },
+  "permissions": []
+}
